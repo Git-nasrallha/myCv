@@ -1,0 +1,118 @@
+{
+    "about":
+        {
+            "name":"Mohammad Nasrallah Nasrallah Mustafa.",
+            "age" :24,
+            "birth" :"1/11/1997.",
+            "college":"Faculty of Computers and Information,Zagazig University.",
+            "department":"Information Technology.",
+            "graduationYear":"25 August 2020 .",
+            "general Appreciation":"good .",
+            "military service":"finshed .",
+            "social status":"Unmarried ."
+            
+        },
+    "skills":{
+        
+           "web":[
+                {
+                    "skill" :"html5",
+                    "prcentage":"95%",
+                    "bg" :"bg-primary"
+                },
+                {
+                    "skill" :"css3",
+                    "prcentage":"90%",
+                    "bg" :"bg-success"
+                },
+                {
+                    "skill" :"bootstrap",
+                    "prcentage":"90%",
+                    "bg" :"bg-info"
+                },
+                {
+                    "skill" :"sass",
+                    "prcentage":"85%",
+                    "bg" :"bg-warning"
+                },
+                {
+                    "skill" :"JS DOM",
+                    "prcentage":"85%",
+                    "bg" :"bg-success"
+                },
+                {
+                    "skill" :"JS BOM",
+                    "prcentage":"85%",
+                    "bg" :"bg-danger"
+                },
+                {
+                    "skill" :"jquery",
+                    "prcentage":"90%",
+                    "bg" :"bg-danger"
+                },
+                {
+                    "skill" :"ECMA script6",
+                    "prcentage":"80%",
+                    "bg" :"bg-warning"
+                } 
+            ],
+            "jsFramwork":[
+                "react js" ,"node js","express js"
+            ],
+            "programmingLang":[
+                "c++","java (basic)","php","java script"
+            ]
+        
+    },
+    "portfolio":[
+        {
+            "id":1,
+            "image":"./images/portfolio/app1.png",
+            "title":"first App designed ",
+            "to":"https://youthful-wright-ee75c6.netlify.app",
+            "code":"https://github.com/Git-nasrallha/firstProject"
+        },
+        {
+            "id":2,
+            "image":"./images/portfolio/samplecart.jpg",
+            "title":"sample cart ",
+            "to":"https://samplecart.netlify.app",
+            "code":"https://github.com/Git-nasrallha/smapleCart"
+        },
+        {
+            "id":3,
+            "image":"./images/portfolio/wedding.jpg",
+            "title":"wedding app ",
+            "to":"https://git-nasrallha.github.io/weddingApp/",
+            "code":"https://github.com/Git-nasrallha/weddingApp"
+        },
+        {
+            "id":4,
+            "image":"./images/portfolio/book.png",
+            "title":"Book app ",
+            "to":"https://git-nasrallha.github.io/app4/",
+            "code":"https://github.com/Git-nasrallha/app4"
+        },
+        {
+            "id":5,
+            "image":"./images/portfolio/tutorials.jpg",
+            "title":"Tutorials app ",
+            "to":"https://git-nasrallha.github.io/App3/",
+            "code":"https://github.com/Git-nasrallha/App3"
+        },
+        {
+            "id":6,
+            "image":"./images/portfolio/hotel.jpeg",
+            "title":"Hotel app ",
+            "to":"https://thirsty-jackson-d46427.netlify.app/",
+            "code":"https://github.com/Git-nasrallha/hotelApp"
+        }
+    ],
+    "contact":{
+        "email":"mohamednasrallha@gmail.com ",
+        "email2":"nasrallhanasrallha@gmail.com ",
+        "phone":"01273684590",
+        "address":"Abu Hammad Sharqia ."
+    }
+   
+}
